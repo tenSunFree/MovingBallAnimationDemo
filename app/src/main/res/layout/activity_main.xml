@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rootViewRelativeLayout"
+    android:orientation="vertical"
+    android:background="#72a2c0"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/discLinearLayout"
+        android:background="@drawable/shape_oval"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:orientation="horizontal">
+    </LinearLayout>
+
+    <com.example.administrator.movingballanimationdemo.custom.CustomDynamicImageView
+        android:layout_centerInParent="true"
+        android:id="@+id/ballCustomDynamicImageView"
+        android:src="@drawable/ball"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>
