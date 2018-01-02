@@ -17,8 +17,6 @@ http://waww.you2repeat.com/watch/?v=_tYqbUaSZyI
                               
 預覽
 --------
-![image](https://i.imgur.com/4rWbmRP.png)                                      
+![image](https://i.imgur.com/rqqnARV.png)                                      
 
-![image](https://i.imgur.com/1XrbgR4.png)                                      
-
-![image](https://i.imgur.com/cTM1Li5.png) 
+![image](https://i.imgur.com/OuBtjyW.png)
